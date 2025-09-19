@@ -9,7 +9,7 @@ sections:
     content:
       title: |
     
-        <div style="font-size:4rem">
+        <div style="font-size:2rem">
           BOLT
           Research Lab
         </div>
