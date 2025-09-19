@@ -8,7 +8,10 @@ sections:
   - block: hero
     content:
       title: |
-       The BOLT Research Group 
+       <div style="font-size:1.2rem; line-height:1.2;">
+          The BOLT<br>
+          Research Group
+        </div>
       image:
         filename: welcome.jpg
       text: |
