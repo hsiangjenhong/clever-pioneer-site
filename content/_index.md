@@ -8,8 +8,11 @@ sections:
   - block: hero
     content:
       title: |
-        BOLT
-        Research Lab
+        <div style="font-size:4rem; line-height:1.2;">
+          BOLT<br>
+          Research Lab
+        </div>
+        
       image:
         filename: welcome.jpg
       text: |
