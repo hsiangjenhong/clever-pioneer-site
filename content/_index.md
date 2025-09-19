@@ -8,8 +8,9 @@ sections:
   - block: hero
     content:
       title: |
-        BOLT
-        Research Lab
+      <div style="font-size:1.2rem;">
+       The BOLT Research Group 
+      </div>
       image:
         filename: welcome.jpg
       text: |
