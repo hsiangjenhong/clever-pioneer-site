@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        <div style="font-size:2rem">
+        <div style="font-size:1.3rem">
           The BOLT
           Research Group
         </div>
