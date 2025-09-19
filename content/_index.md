@@ -8,8 +8,9 @@ sections:
   - block: hero
     content:
       title: |
-        <div style="font-size:4rem; line-height:1.2;">
-          BOLT<br>
+    
+        <div style="font-size:4rem">
+          BOLT
           Research Lab
         </div>
         
