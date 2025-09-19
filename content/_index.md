@@ -18,8 +18,8 @@ sections:
       text: |
         <br>
         
-         <div style="font-size:0.7rem;">
-          The BOLT Research Group (Blockchain, Optimized Network, Ledger, Trust) focuses on building secure, high-performance distributed systems. Our research spans cryptographic protocols, P2P networks, source integrity, and trust in distributed environments. The name BOLT also reflects our recent work on the Bitcoin Lightning Network, highlighting fast, scalable, and secure payment channels. By combining foundational networking technologies with blockchain-based trust mechanisms, we aim to advance both theoretical and practical solutions for secure distributed systems.
+     <div style="font-size:0.7rem; line-height:1.6;">
+          The <strong>BOLT Research Group</strong> (Blockchain, Optimized Network, Ledger, Trust) focuses on building secure, high-performance distributed systems, spanning cybersecurity, blockchain technology, computer networks, and algorithmic techniques. Our work includes cryptographic protocols, P2P networks, source integrity, and trust in distributed environments. The name <strong>BOLT</strong> also reflects our recent research on the <strong>Bitcoin Lightning Network</strong>, emphasizing fast, scalable, and secure payment channels. Recently, the group has been exploring advanced techniques such as <strong>Multi-Party Computation (MPC)</strong> and <strong>Zero-Knowledge Proofs (ZKPs)</strong>, two critical pillars of the evolving <strong>Web3</strong> landscape. By combining foundational networking technologies with blockchain-based trust mechanisms, the group aims to advance both theoretical and practical solutions for secure distributed systems.
         </div>
     
   - block: collection
