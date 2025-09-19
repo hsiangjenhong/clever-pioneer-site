@@ -10,16 +10,10 @@ sections:
       title: |
         BOLT
         Research Lab
-        <div style="font-size:4rem; line-height:1.2;">
-          BOLT<br>
-          Research Lab
-        </div>
-        
       image:
         filename: welcome.jpg
       text: |
-        <br>
-        
+        <br>      
          <div style="font-size:0.7rem;">
           The BOLT Research Group (Blockchain, Optimized Network, Ledger, Trust) focuses on building secure, high-performance distributed systems. Our research spans cryptographic protocols, P2P networks, source integrity, and trust in distributed environments. The name BOLT also reflects our recent work on the Bitcoin Lightning Network, highlighting fast, scalable, and secure payment channels. By combining foundational networking technologies with blockchain-based trust mechanisms, we aim to advance both theoretical and practical solutions for secure distributed systems.
         </div>
